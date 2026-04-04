@@ -1,0 +1,29 @@
+{
+  "name": "designo-ergo-extendo",
+  "version": "1.0.0",
+  "description": "**我设计，故我延伸。**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgwpss/designo-ergo-extendo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sgwpss/designo-ergo-extendo/issues"
+  },
+  "homepage": "https://github.com/sgwpss/designo-ergo-extendo#readme",
+  "dependencies": {
+    "@react-pdf/renderer": "^4.3.2",
+    "react": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "tsx": "^4.21.0"
+  }
+}
